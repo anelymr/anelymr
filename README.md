@@ -7,6 +7,7 @@
     🎮 Music • Games • Anime • Friends & Brooklyn 99 are my confort
 </pre>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anelymr&show_icons=true&theme=radical&locale=en&layout=compact" alt="anelymr" /></p>
-<br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anelymr&show_icons=true&theme=radical&locale=en" alt="anelymr" /></p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=anelymr&show_icons=true&theme=radical&locale=en&layout=compact" alt="anelymr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anelymr&show_icons=true&theme=radical&locale=en" alt="anelymr"/>
+</div>
