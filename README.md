@@ -4,7 +4,7 @@
     👩🏽‍💻 I'm currently working as an IT Business Analyst.
     🧙🏽‍♀️ But I really want to become a QA Analyst.
     🌱 I’m currently learning: Java | Python | SQL;
-    🎮 Music • Games • Anime • Friends & Brooklyn 99 are my confort
+    🎮 Do you want to know something about me? Friends & Brooklyn 99 are my confort series and I like Games & Animes;
 </pre>
 
 <div align="center">
