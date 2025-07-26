@@ -15,7 +15,7 @@
         Do you want to know something about me?<br>
         <br>👩🏽‍💻 I'm currently working as an IT Business Analyst.<br>
         🧙🏽‍♀️ But I really want to become a QA Analyst <br>
-        🌱 I’m currently learning: Java | Python | SQL <br>
+        🌱 I’m currently learning: HTML/CSS & JavaScript <br>
         📺 Friends & Brooklyn 99 are my comfort series <br>
         🎮 I like games <br>
         🐶 I have two dogs <br>
